@@ -1,4 +1,3 @@
-#FILE-CLONE 
 ```python
 
 pkg update
@@ -19,7 +18,7 @@ rm -rf S4AD1N-XD
 
 git clone https://github.com/SHADIN-143/S4AD1N-XD.git
 
-cd FILE-CLONE
+cd S4AD1N-XD
 
 git pull
 
