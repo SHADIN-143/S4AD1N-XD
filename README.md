@@ -15,16 +15,14 @@ pip install bs4
 
 pkg install git
 
-rm -rf FILE-CLONE
+rm -rf S4AD1N-XD
 
-git clone https://github.com/SHADIN-143/FILE-CLONE.git
+git clone https://github.com/SHADIN-143/S4AD1N-XD.git
 
 cd FILE-CLONE
 
 git pull
 
-python3 SHADIN.py
+python3 S4AD1N.py
 ```
 Note: (This Tools Are Paid)
-
-<a href="https://ibb.co/bHvQjt9"><img src="https://i.ibb.co/tZ2QwRr/Picsart-23-12-18-07-51-20-557.jpg" alt="Picsart-23-12-18-07-51-20-557" border="0"></a>
